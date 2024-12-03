@@ -1,4 +1,4 @@
-Heart Disease Classification
+Heart Disease Classification :
 This project demonstrates an end-to-end machine learning pipeline for binary classification of heart disease presence using patient medical data. The workflow encompasses exploratory data analysis (EDA), feature engineering, model training, evaluation, and fine-tuning.
 
 Table of Contents
