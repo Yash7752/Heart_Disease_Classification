@@ -1,10 +1,11 @@
 Heart Disease Classification :
+
 This project demonstrates an end-to-end machine learning pipeline for binary classification of heart disease presence using patient medical data. The workflow encompasses exploratory data analysis (EDA), feature engineering, model training, evaluation, and fine-tuning.
 
 Table of Contents
 1. Problem Definition
 2. Dataset
-3.Project Workflow
+3. Project Workflow
 4. Dependencies
 5. Usage
 6. Results
@@ -13,6 +14,7 @@ Problem Definition
 The objective is to predict whether a patient has heart disease based on clinical parameters. This is a binary classification problem where:
 
 1 indicates the presence of heart disease.
+
 0 indicates its absence.
 
 Key Question:
