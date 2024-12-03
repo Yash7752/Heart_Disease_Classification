@@ -71,6 +71,6 @@ Follow the steps in the notebook to execute the project pipeline.
 Results
 The classification models achieved the following:
 
-Accuracy: Over 85% with Random Forest.
-Evaluation Metrics: Comprehensive analysis using precision, recall, and F1 score.
-Feature Importance: Visualized the key features influencing predictions.
+1. Accuracy: Over 85% with Random Forest.
+2. Evaluation Metrics: Comprehensive analysis using precision, recall, and F1 score.
+3. Feature Importance: Visualized the key features influencing predictions.
